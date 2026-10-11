@@ -11,7 +11,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
   - Renamed primary theme from `StackMint Theme` to **StackMint Pro**
   - Renamed variant theme from `StackMint Special` to **StackMint Midnight**
 - **Complete Workbench UI Overhaul**: Full color harmonization across all three themes for the activity bar, title bar, sidebar, tabs, terminal, status bar, brackets, inputs, search, and git diffs.
-- **Enhanced Syntax Highlighting**: Improved contrast and token separation across JavaScript, TypeScript, React/JSX, Python, HTML, CSS, JSON, Markdown, and more.
+- **Enhanced Syntax & Block Colorfulness**:
+  - Distinct block highlighting: Active & inactive rainbow bracket pair guides (`editorBracketPairGuide.activeBackground1-6`), bracket match accents, folded block highlights, and markdown content blocks.
+  - Granular control flow tokens (`if`, `return`, `try`, `catch`) separated from declaration keywords (`const`, `function`, `class`).
+  - Dedicated styling for template literal blocks (`${...}`), JSX expression blocks (`{...}`), CSS rule blocks, and JSON/YAML data blocks.
+  - Markdown content block enhancements: fenced code blocks, fences, blockquotes, tables, lists, and links.
 
 ## [1.0.0] - 2026-10-08
 
