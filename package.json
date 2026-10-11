@@ -1,8 +1,8 @@
 {
    "name": "stackmint-theme",
    "displayName": "StackMint Theme",
-   "description": "A modern VS Code color theme with carefully balanced syntax highlighting for maximum contrast and visual clarity.",
-   "version": "1.0.0",
+   "description": "Professional, eye-comfort, and modern VS Code color themes featuring StackMint Eye Comfort, StackMint Pro, and StackMint Midnight with vibrant, ultra-readable syntax highlighting.",
+   "version": "1.1.0",
    "publisher": "smcolorthemesohagsheik",
    "license": "MIT",
    "repository": {
@@ -19,14 +19,19 @@
    "contributes": {
       "themes": [
          {
-            "label": "StackMint Theme",
+            "label": "StackMint Eye Comfort",
             "uiTheme": "vs-dark",
-            "path": "./themes/StackMint Theme-color-theme.json"
+            "path": "./themes/StackMint Eye Comfort-color-theme.json"
          },
          {
-            "label": "StackMint Special",
+            "label": "StackMint Pro",
             "uiTheme": "vs-dark",
-            "path": "./themes/StackMint Special-color-theme.json"
+            "path": "./themes/StackMint Pro-color-theme.json"
+         },
+         {
+            "label": "StackMint Midnight",
+            "uiTheme": "vs-dark",
+            "path": "./themes/StackMint Midnight-color-theme.json"
          }
       ]
    }

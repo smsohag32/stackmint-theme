@@ -4,7 +4,9 @@
 
 * This folder contains all of the files necessary for your color theme extension.
 * `package.json` - this is the manifest file that defines the location of the theme file and specifies the base theme of the theme.
-* `themes/StackMint Theme-color-theme.json` - the color theme definition file.
+* `themes/StackMint Eye Comfort-color-theme.json` - the eye-comfort theme definition file.
+* `themes/StackMint Pro-color-theme.json` - the professional theme definition file.
+* `themes/StackMint Midnight-color-theme.json` - the midnight theme definition file.
 
 ## Get up and running straight away
 
