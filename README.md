@@ -22,6 +22,7 @@
 | Theme | Style | Highlights |
 | :--- | :--- | :--- |
 | 🌿 **StackMint Eye Comfort** | **Eye Comfort / Soft Dark** | Gentle on the eyes, reduces fatigue during long sessions. Soothing background (`#161c22`) with vivid, colorful syntax highlighting that makes code pop with effortless readability. |
+| 🐙 **StackMint GitHub Dark** | **Official GitHub Dark + Colorful** | Iconic GitHub Dark canvas (`#0d1117`) and borders (`#30363d`) enriched with vibrant, high-contrast, multi-color syntax highlighting for ultra-clear code blocks. |
 | ⚡ **StackMint Pro** | **Professional Classic Dark** | Balanced Material-slate background (`#263238`), crisp contrast, and iconic radiant mint accents for everyday professional development. |
 | 🌙 **StackMint Midnight** | **Deep Midnight Dark** | Ultra-deep nocturnal navy background (`#0B1220`) with vibrant electric cyan, amber, and coral accents for maximum contrast. |
 
@@ -31,6 +32,7 @@
 
 - 🌿 **Eye Comfort Engineering**: Optimized color luminance, soft background, and balanced contrast designed to reduce eye strain during extended 8+ hour coding sessions.
 - 🎨 **Colorful & Easy to Read**: Every syntactic token (keywords, functions, strings, numbers, types, variables, parameters) has a distinct, vibrant, accessible color.
+- 🌈 **Rainbow Bracket Pair Guides**: Visual color-coded indentation and scope lines (`editorBracketPairGuide`) connecting nested blocks for instant hierarchy recognition.
 - 🪟 **Comprehensive Workbench UI**: Fully harmonized editor, activity bar, sidebar, tabs, status bar, breadcrumbs, command palette, integrated terminal, and git diffs.
 - 💻 **Multi-Language Perfection**: Fine-tuned for JavaScript, TypeScript, React JSX/TSX, Python, HTML, CSS/SCSS, C/C++, Go, Rust, PHP, JSON, YAML, SQL, and Markdown.
 - 🧩 **VS Code & Compatible Editors**: Works seamlessly with Visual Studio Code, VSCodium, Cursor, and Open VSX compatible editors.
@@ -43,7 +45,8 @@ All packaged extension versions are organized inside the [`releases/`](./release
 
 | Version | Release Package | Download Link | Notes |
 | :--- | :--- | :--- | :--- |
-| **`v1.1.0`** *(Latest)* | `stackmint-theme-1.1.0.vsix` | ⬇️ **[Download v1.1.0](./releases/stackmint-theme-1.1.0.vsix)** | Added **StackMint Eye Comfort**, rebranded **StackMint Pro** & **StackMint Midnight** with full UI styling |
+| **`v1.2.0`** *(Latest)* | `stackmint-theme-1.2.0.vsix` | ⬇️ **[Download v1.2.0](./releases/stackmint-theme-1.2.0.vsix)** | Added **StackMint GitHub Dark** with rich colorful code blocks |
+| `v1.1.0` | `stackmint-theme-1.1.0.vsix` | ⬇️ **[Download v1.1.0](./releases/stackmint-theme-1.1.0.vsix)** | Added **StackMint Eye Comfort**, rebranded **StackMint Pro** & **StackMint Midnight** |
 | `v1.0.0` | `stackmint-theme-1.0.0.vsix` | ⬇️ **[Download v1.0.0](./releases/stackmint-theme-1.0.0.vsix)** | Initial 1.0.0 release |
 | `v0.0.3` | `stackmint-theme-0.0.3.vsix` | ⬇️ **[Download v0.0.3](./releases/stackmint-theme-0.0.3.vsix)** | Pre-release version 0.0.3 |
 | `v0.0.2` | `stackmint-theme-0.0.2.vsix` | ⬇️ **[Download v0.0.2](./releases/stackmint-theme-0.0.2.vsix)** | Pre-release version 0.0.2 |
@@ -57,7 +60,7 @@ All packaged extension versions are organized inside the [`releases/`](./release
    - **macOS:** `Cmd + Shift + X`
 4. Click the **`...` (More Actions)** menu at the top-right corner of the Extensions view.
 5. Click **Install from VSIX...**
-6. Select the downloaded `.vsix` file (e.g. `stackmint-theme-1.1.0.vsix`).
+6. Select the downloaded `.vsix` file (e.g. `stackmint-theme-1.2.0.vsix`).
 
 ---
 
@@ -79,6 +82,7 @@ After installation:
 2. Type and select **Preferences: Color Theme**.
 3. Choose your favorite variant:
    - **StackMint Eye Comfort** *(Recommended for long coding sessions)*
+   - **StackMint GitHub Dark** *(GitHub aesthetic with vivid syntax)*
    - **StackMint Pro**
    - **StackMint Midnight**
 4. Press **Enter**.

@@ -4,6 +4,10 @@ All notable changes to the "stackmint-theme" extension will be documented in thi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.0] - 2026-10-11
+
+- **New Theme Added**: 🐙 **StackMint GitHub Dark** — The iconic GitHub Dark canvas (`#0d1117`) and borders (`#30363d`) supercharged with vivid, high-contrast multi-color syntax highlighting. Features distinct colors for functions, keywords, strings, types, parameters, and active rainbow bracket guides.
+
 ## [1.1.0] - 2026-10-11
 
 - **New Theme Added**: 🌿 **StackMint Eye Comfort** — Specially designed for long hours of coding with low eye strain, soothing soft-slate background (`#161c22`), and vivid, colorful syntax highlighting that makes code easy and delightful to read.

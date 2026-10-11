@@ -1,8 +1,8 @@
 {
    "name": "stackmint-theme",
    "displayName": "StackMint Theme",
-   "description": "Professional, eye-comfort, and modern VS Code color themes featuring StackMint Eye Comfort, StackMint Pro, and StackMint Midnight with vibrant, ultra-readable syntax highlighting.",
-   "version": "1.1.0",
+   "description": "Professional, eye-comfort, and modern VS Code color themes featuring StackMint Eye Comfort, StackMint GitHub Dark, StackMint Pro, and StackMint Midnight with vibrant, ultra-readable syntax highlighting.",
+   "version": "1.2.0",
    "publisher": "smcolorthemesohagsheik",
    "license": "MIT",
    "repository": {
@@ -14,7 +14,7 @@
       "url": "https://github.com/smsohag32/stackmint-theme/issues"
    },
    "galleryBanner": {
-      "color": "#161c22",
+      "color": "#0d1117",
       "theme": "dark"
    },
    "pricing": "Free",
@@ -30,6 +30,9 @@
       "color-theme",
       "dark-theme",
       "eye-comfort",
+      "github",
+      "github-dark",
+      "github-theme",
       "stackmint",
       "dark",
       "mint",
@@ -42,6 +45,11 @@
             "label": "StackMint Eye Comfort",
             "uiTheme": "vs-dark",
             "path": "./themes/StackMint Eye Comfort-color-theme.json"
+         },
+         {
+            "label": "StackMint GitHub Dark",
+            "uiTheme": "vs-dark",
+            "path": "./themes/StackMint GitHub Dark-color-theme.json"
          },
          {
             "label": "StackMint Pro",
