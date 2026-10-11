@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=smcolorthemesohagsheik.stackmint-theme"><img src="https://img.shields.io/visual-studio-marketplace/v/smcolorthemesohagsheik.stackmint-theme?label=VS%20Code%20Marketplace" alt="Visual Studio Marketplace" /></a>
   <a href="https://open-vsx.org/extension/smcolorthemesohagsheik/stackmint-theme"><img src="https://img.shields.io/open-vsx/v/smcolorthemesohagsheik/stackmint-theme?label=Open%20VSX" alt="Open VSX" /></a>
   <a href="https://open-vsx.org/extension/smcolorthemesohagsheik/stackmint-theme"><img src="https://img.shields.io/open-vsx/dt/smcolorthemesohagsheik/stackmint-theme?label=Downloads" alt="Downloads" /></a>
   <a href="https://github.com/smsohag32/stackmint-theme"><img src="https://img.shields.io/github/stars/smsohag32/stackmint-theme?style=social" alt="GitHub Stars" /></a>

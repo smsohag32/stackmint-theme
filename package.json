@@ -9,12 +9,32 @@
       "type": "git",
       "url": "https://github.com/smsohag32/stackmint-theme.git"
    },
+   "homepage": "https://github.com/smsohag32/stackmint-theme#readme",
+   "bugs": {
+      "url": "https://github.com/smsohag32/stackmint-theme/issues"
+   },
+   "galleryBanner": {
+      "color": "#161c22",
+      "theme": "dark"
+   },
+   "pricing": "Free",
    "icon": "images/icon-128.png",
    "engines": {
       "vscode": "*"
    },
    "categories": [
       "Themes"
+   ],
+   "keywords": [
+      "theme",
+      "color-theme",
+      "dark-theme",
+      "eye-comfort",
+      "stackmint",
+      "dark",
+      "mint",
+      "pro",
+      "syntax-highlighting"
    ],
    "contributes": {
       "themes": [
